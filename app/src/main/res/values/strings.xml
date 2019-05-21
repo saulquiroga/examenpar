@@ -1,0 +1,17 @@
+<resources>
+    <string name="tv1">unidades de temperatura</string>
+    <string name="bt1">celsius a fahrenheit</string>
+    <string name="bt2">celsius a kelvin</string>
+    <string name="bt3">fahrenheit a celsius</string>
+    <string name="bt4">kelvin a celsius</string>
+    <string name="tv2">unidades de distancia</string>
+    <string name="bd1">metros a centimetros</string>
+    <string name="bd2">centimetros a metros</string>
+    <string name="bd3">centimetros a kilometros</string>
+    <string name="bd4">kilometros a centimetros</string>
+    <string name="app_name">examen</string>
+    <string name="uni">unidades</string>
+    <string name="cal">calular</string>
+    <string name="res">resultado</string>
+
+</resources>

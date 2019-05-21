@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">" exam"</string>
+    <string name="bd1">meters to centimeters</string>
+    <string name="tv1">" temperature units"</string>
+    <string name="bt1">celsius to fahrenheit</string>
+    <string name="bt2">celsius to kelvin</string>
+    <string name="bt3">" fahrenheit a celsius"</string>
+    <string name="bt4">Kelvin to Celsius</string>
+    <string name="tv2">distance units</string>
+    <string name="bd2">centimeters to meters</string>
+    <string name="bd3">" centimeters to kilometers "</string>
+    <string name="bd4">kilometers to centimeters</string>
+    <string name="cal">calculate</string>
+    <string name="res">result</string>
+    <string name="uni">units</string>
+</resources>
